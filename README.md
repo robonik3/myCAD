@@ -5,4 +5,5 @@ individual orthagraphic drawings with isometric views for each part in a pdf.
 
 
 KiCad:
-CAD files of a PCB I designed (the PCBFront and PCBBack are both images of the front and back of a 3d model of the PCB, and Schematic is an image of the PCB's schematic)
+CAD files of a PCB I designed (the PCBFront and PCBBack are both images of the front and back of a 3d model of the PCB, and Schematic is an image of the PCB's schematic). 
+It is a very simple PCB that switches on a LED light when a battery is inserted. The back of the PCB is supposed to have a coin battery holder attached.
